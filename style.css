@@ -1,0 +1,31 @@
+body{
+	color: rgb(133,158,209);
+	font-family: Comfortaa;
+	background-color: black;
+}
+
+#check{
+	
+	
+
+
+}
+.container{
+	background-color: black;
+	position: relative;
+	bottom: -150px;
+
+}
+.intro{
+	margin:0 auto;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	text-align: center;
+}
+
+.data{
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	text-align: center;
+	
+}
